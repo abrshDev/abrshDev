@@ -64,12 +64,23 @@
 
 ---
 
-# 📊 GitHub Stats (Reliable Version)
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-encryptedtouhid.vercel.app/api?username=abrshDev&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats-encryptedtouhid.vercel.app/api/top-langs/?username=abrshDev&layout=compact&theme=dark)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrshDev&theme=react-dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrshDev&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats-encryptedtouhid.vercel.app/api?username=abrshDev&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-encryptedtouhid.vercel.app/api/top-langs/?username=abrshDev&layout=compact&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=abrshDev&theme=react-dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrshDev&theme=dark" />
+</p>
 
 ---
 
