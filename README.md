@@ -18,16 +18,19 @@
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 
-### Backend
+### Backend & DevOps
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%23007ACC.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -61,11 +64,12 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats (Reliable Version)
 
-![](https://github-readme-stats.vercel.app/api?username=abrshDev&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=abrshDev&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abrshDev&theme=dark&layout=compact&count_private=true)
+![GitHub Stats](https://github-readme-stats-encryptedtouhid.vercel.app/api?username=abrshDev&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-encryptedtouhid.vercel.app/api/top-langs/?username=abrshDev&layout=compact&theme=dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrshDev&theme=react-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abrshDev&theme=dark)
 
 ---
 
