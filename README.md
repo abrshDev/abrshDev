@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abrham Melkamu
 
-🚀 Full Stack Developer | Microservices | Go | Cloud
+🚀 Full Stack Developer | Microservices | Go  
 
 ---
 
