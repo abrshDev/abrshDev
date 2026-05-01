@@ -38,16 +38,33 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abrshDev&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-</p>
-
-<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrshDev&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrshDev&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=abrshDev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrshDev&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrshDev&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abrshDev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abrshDev&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
