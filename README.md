@@ -52,19 +52,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abrshDev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abrshDev&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
