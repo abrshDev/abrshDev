@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrshDev&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=abrshDev&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
