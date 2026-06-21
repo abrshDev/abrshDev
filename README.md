@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Abrham Melkamu
-
 🚀 Full Stack Developer | Microservices | Go  
 
---
+---
 
 ## 🌐 Socials
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abrish_melkamu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrham-melkamu) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abrshmelkamu3@gmail.com)
@@ -36,13 +34,17 @@
 
 # 📊 GitHub Stats
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abrshDev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abrshDev&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrshDev&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=abrshDev&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=abrshDev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrshDev&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
 </p>
 
 <p align="center">
