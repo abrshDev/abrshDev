@@ -60,7 +60,7 @@ Some of the things I've built and worked on:
 <!-- Replace each entry with a real repo link and a one line result. Pin the same repos on your profile. -->
 
 **Raft KV Store** (Go)
-A key value store built on a from scratch implementation of the Raft consensus algorithm. Add the repo link here.
+A key value store built on a from scratch implementation of the Raft consensus algorithm.
 
 **Ledger Service** (Go, PostgreSQL, Kafka)
 Add a one line description of the problem it solves and the main design choice.
