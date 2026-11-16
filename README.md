@@ -55,22 +55,9 @@ Some of the things I've built and worked on:
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## 📌 Featured Projects
-
-<!-- Replace each entry with a real repo link and a one line result. Pin the same repos on your profile. -->
-
-**Raft KV Store** (Go)
-A key value store built on a from scratch implementation of the Raft consensus algorithm.
-
-**Ledger Service** (Go, PostgreSQL, Kafka)
-Add a one line description of the problem it solves and the main design choice.
-
-**Add your third project here**
-Short description, stack, and a link.
-
 ## 📫 Work With Me
 
-I take on fixed price contract work for backend services, API design, and full stack web apps. The fastest way to reach me is by email at abrshmelkamu3@gmail.com, or send a message on LinkedIn.
+I'm open to work on backend services, API design, and full stack web apps. The fastest way to reach me is by email at [abrshmelkamu3@gmail.com](mailto:abrshmelkamu3@gmail.com), or send a message on [LinkedIn](https://www.linkedin.com/in/abrham-melkamu).
 
 ## 📊 GitHub Stats
 
